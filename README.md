@@ -1,2 +1,2 @@
-# rustcon2k18.github.io
- Source code of http://rustcon2k18.in/ 
+# rustathon2k18.github.io
+ Source code of https://rustathon2k18.in/ 
