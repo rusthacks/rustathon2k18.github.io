@@ -1,0 +1,10 @@
+Searching 8373 files for "Breaking news" (case sensitive)
+
+/Volumes/wordpress/wpsoccer_v17/wp-content/themes/wpsoccer/lib/vc-addons/themeum-breaking-news.php:
+   51      	$output .= '<div class="container">';
+   52      	$output .= '<div class="row">';
+   53:     	$output .= '<div class="breaking-news-title col-md-2 col-sm-3"><h2>'.esc_html__('Breaking news','themeum').'</h2></div>';
+   54      	$output .= '<div id="carousel-breaking-news" class="col-md-10 col-sm-9 carousel slide" data-ride="carousel">';
+   55      	
+
+1 match in 1 file
